@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "ProofOfStrings": {
-        "@id": "https://raw.githubusercontent.com/the25thbamm/proofOfStrings/master/proof-of-strings/proof-of-strings.json-ld#ProofOfStrings",
+        "@id": "https://raw.githubusercontent.com/the25thbamm/proof-of-strings/master/proof-of-strings.json-ld#ProofOfStrings",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/the25thbamm/proofOfStrings/master/proof-of-strings/proof-of-strings-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/the25thbamm/proof-of-strings/master/proof-of-srings-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "shipName": {
             "@id": "vocab:shipName",

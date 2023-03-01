@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/the25thbamm/proofOfSrings/master/proof-of-strings/proof-of-strings.json-ld",
-      "jsonSchema": "https://raw.githubusercontent.com/the25thbamm/proofOfSrings/master/proof-of-strings/proof-of-strings.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/the25thbamm/proof-of-strings/master/proof-of-strings.json-ld",
+      "jsonSchema": "https://raw.githubusercontent.com/the25thbamm/proof-of-strings/master/proof-of-strings.json"
     }
   },
   "required": [
